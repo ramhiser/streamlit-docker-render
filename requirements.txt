@@ -1,1 +1,1 @@
-streamlit==0.86.0
+invoke==1.6.0
